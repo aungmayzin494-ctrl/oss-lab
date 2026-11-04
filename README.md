@@ -6,3 +6,5 @@ Python 3.10 이상 (3.12 권장)
 Git 수업용 연습 저장소
 ## 라이선스 /
 MIT 
+def logout(user):
+      print(f"{user} 로그아웃")
