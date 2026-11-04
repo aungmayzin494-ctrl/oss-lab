@@ -3,3 +3,4 @@ def greet(name):
 # 7강 실습
 print("Hello, Git!")
 greet("홍길동")
+print("debug")
