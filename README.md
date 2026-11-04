@@ -7,5 +7,5 @@ Git 수업용 연습 저장소
 ## 라이선스 /
 MIT 
 
-##def logout(user):
+def logout(user):
       print(f"{user} 로그아웃")
